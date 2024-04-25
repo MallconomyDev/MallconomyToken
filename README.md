@@ -1,0 +1,1 @@
+# Mallconomy Token contract
